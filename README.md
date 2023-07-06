@@ -4,8 +4,7 @@
 
 - <b>Security Audit </b>
   - Security Audit ([https://github.com/DanielleNycole](https://github.com/DanielleNycole/Security-Audit))
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- 
 
 <h2>Certifications</h2>
 
