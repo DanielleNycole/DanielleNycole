@@ -4,7 +4,11 @@
 
 - <b>Security Audit </b>
   - Security Audit ([https://github.com/DanielleNycole](https://github.com/DanielleNycole/Security-Audit))
-- 
+- <b>Analyze Network Structure and Security </b>
+- <b>Linux to Manage File Permissions  </b>
+- <b>Apply Filters To SQL Queries  </b>
+- <b>Incidents Handler Journal  </b>
+- <b>Importing and Parsing a Text File </b>
 
 <h2>Certifications</h2>
 
