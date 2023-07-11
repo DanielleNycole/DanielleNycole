@@ -4,10 +4,10 @@
 
 - <b>[Security Audit](https://github.com/DanielleNycole/Security-Audit)</b>
 - <b> [Active Directory](https://github.com/DanielleNycole/Active-Directory) </b>
-- <b>Linux to Manage File Permissions  </b>
-- <b>Apply Filters To SQL Queries  </b>
-- <b>Incidents Handler Journal  </b>
-- <b>Importing and Parsing a Text File </b>
+- <b>Linux to Manage File Permissions  (in Process) </b>
+- <b>Apply Filters To SQL Queries  (in Process) </b>
+- <b>Incidents Handler Journal (in Process) </b>
+- <b>Importing and Parsing a Text File (in Process) </b>
 
 <h2>Certifications</h2>
 
