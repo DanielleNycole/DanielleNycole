@@ -12,6 +12,7 @@
 
 <h2>Certifications</h2>
 
+- (ICS)2 Certified in Cybersecurity
 - Google Cybersecurity Professional (Currently Attending)
 - University of Phoenix Cyber and Network Defense Certificate (Currently Attending)
-- (ICS)2 Certified in Cybersecurity (Currently Attending)
+
