@@ -5,7 +5,7 @@
 - <b>[Security Audit](https://github.com/DanielleNycole/Security-Audit)</b>
 - <b> [Active Directory](https://github.com/DanielleNycole/Active-Directory) </b>
 - <b> [Network Analysis](https://github.com/DanielleNycole/Network-Analysis) </b>
-- <b> [Vulnerability Management](https://github.com/DanielleNycole/Active-Directory) </b>
+- <b> [Vulnerability Management](https://github.com/DanielleNycole/Vulnerability-Management/blob/main/README.md) </b>
 - <b>Linux to Manage File Permissions  (in Process) </b>
 - <b>Apply Filters To SQL Queries  (in Process) </b>
 - <b>Incidents Handler Journal (in Process) </b>
