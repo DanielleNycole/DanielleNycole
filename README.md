@@ -6,7 +6,7 @@
 - <b> [Active Directory](https://github.com/DanielleNycole/Active-Directory) </b>
 - <b> [Network Analysis](https://github.com/DanielleNycole/Network-Analysis) </b>
 - <b> [Vulnerability Management](https://github.com/DanielleNycole/Vulnerability-Management/blob/main/README.md) </b>
-- <b>Linux to Manage File Permissions  (in Process) </b>
+- <b> [Linux to Manage File Permissions](https://github.com/DanielleNycole/Linux-to-Manage-File-Permissions-/tree/main) </b>
 - <b>Apply Filters To SQL Queries  (in Process) </b>
 - <b>Incidents Handler Journal (in Process) </b>
 - <b>Importing and Parsing a Text File (in Process) </b>
