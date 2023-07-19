@@ -11,7 +11,6 @@
 - <b>Incidents Handler Journal (in Process) </b>
 - <b>Importing and Parsing a Text File (in Process) </b>
 
-https://github.com/DanielleNycole/SQL-Queries-/blob/main/README.md
 <h2>Certifications</h2>
 
 - (ICS)2 Certified in Cybersecurity
