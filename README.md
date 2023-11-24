@@ -1,5 +1,5 @@
 <h1>Hi, I'm Danielle! <br/> </h1>
-<b> I am an emerging cybersecurity professional. I am a detail-oriented problem solver with an incredible self-starting work ethic. Below are all projects that I took upon myself to learn in efforts to expand and develop my skills. I am currently working on an Incidents Handler Journal in my freetime. I am currently attending the University of Phoenix to earn my Bachelors in Computer Science while simultaneously working towards all of the certifications mentioned below. </b>
+<b> I am a detail-oriented problem solver with an incredible self-starting work ethic. Below are all projects that I took upon myself to learn in efforts to expand and develop my skills. I am currently working on an Incidents Handler Journal in my freetime. I am currently attending the University of Phoenix to earn my Bachelors in Computer Science while simultaneously working towards all of the certifications mentioned below. </b>
 <h2>👩🏻‍💻Cybersecurity Projects:</h2>
 
 - <b>[Security Audit](https://github.com/DanielleNycole/Security-Audit)</b>
