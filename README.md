@@ -14,5 +14,5 @@
 <h2>Certifications</h2>
 
 - [(ISC)2 Certified in Cybersecurity](https://www.credly.com/badges/b7b9c89c-8229-419c-bbf8-5e6cbe00d299/public_url) 
-- Google Cybersecurity Professional (Currently Attending)
-- University of Phoenix Cyber and Network Defense Certificate (Currently Attending)
+- University of Phoenix Cyber and Network Defense Certificate
+- Comptia Security + (Currently Attending)
