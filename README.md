@@ -10,13 +10,17 @@
 - <b> [SQL Queries](https://github.com/DanielleNycole/SQL-Queries-/blob/main/README.md) </b>
 
 
-<h2>🎓Certifications</h2>
+<h2>🎓Education:</h2>
 
 - [COMPTIA Security+](https://www.credly.com/badges/5c3ff330-498c-472e-945d-959aa477c023/public_url)
 - [(ISC)2 Certified in Cybersecurity](https://www.credly.com/badges/b7b9c89c-8229-419c-bbf8-5e6cbe00d299/public_url) 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/57a2fb4e-a224-4e8b-a611-ce8c3a44e990/public_url)
 - University of Phoenix Cyber and Network Defense Certificate
 
+<h2>Research and Reviews: </h2>
+
+- [Why I'm Studying AI in Cybersecurity](https://github.com/DanielleNycole/ai-cybersecurity-research/blob/main/README.md)
+- [How Hackers Are Using AI for Phishing](https://github.com/DanielleNycole/ai-cybersecurity-research/blob/main/01-ai-phishing.md)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
